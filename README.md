@@ -34,3 +34,26 @@ The wallet balance and search icon are organized within a Row for easy readabili
    - Currency: Stores details for each currency, including name, buy/sell rates, and icon.
    - Finance: Represents finance options with an icon and background color.
    - bottomNavigation: Defines the structure for bottom navigation items
+## Screenshots
+## Getting Started
+# Prerequisites
+- Android Studio
+- Knowledge of Kotlin and Jetpack Compose
+- Gradle setup for required dependencies
+# Setup Instructions
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Sync Gradle and ensure all dependencies are installed.
+4. Run the app on an emulator or a physical Android device.
+## Dependencies
+Jetpack Compose: For building UI.
+Material3: Provides UI components styled for Material Design 3.
+## License
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
